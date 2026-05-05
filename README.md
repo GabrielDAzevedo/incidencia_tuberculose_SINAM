@@ -1,7 +1,3 @@
-Aqui está uma proposta completa e estruturada de `README.md` baseada no código do seu notebook. Ele foi redigido de forma profissional, ideal para ser adicionado ao seu repositório no GitHub.
-
-***
-
 # 🦠 Incidência de Tuberculose (SINAN/DataSUS)
 
 Este projeto contém um script em Python (Jupyter Notebook) desenvolvido para automatizar a extração de dados do Sistema de Informação de Agravos de Notificação (SINAN) e calcular o **Coeficiente de Incidência de Casos Novos de Tuberculose por 100 mil habitantes**, agrupado por Unidade Federativa (UF) do Brasil.
